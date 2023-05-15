@@ -10,13 +10,13 @@
 
     <item android:id="@+id/marketFragment"
         android:enabled="true"
-        android:icon="@drawable/home"
+        android:icon="@drawable/stockmarket"
         android:title="Market"
         app:showAsAction="always"/>
 
     <item android:id="@+id/watchListFragment"
         android:enabled="true"
-        android:icon="@drawable/home"
+        android:icon="@drawable/bookmark"
         android:title="Watch List"
         app:showAsAction="always"/>
 </menu>
